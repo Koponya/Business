@@ -1,0 +1,11 @@
+name: Business
+main: com.koponya.Business.Business
+version: 1.0
+author: Koponya
+commands:
+  business:
+    description: main command
+    usage: /<command>
+    aliases: bs
+
+           
